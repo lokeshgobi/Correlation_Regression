@@ -82,6 +82,8 @@ plt.legend(['Regression Line','Data points'])
 plt.grid()
 plt.show()
 ```
+https://github.com/lokeshgobi/Correlation_Regression
+
 # Output 
 
 <img width="1011" height="637" alt="image" src="https://github.com/user-attachments/assets/2ec6d96f-4011-46dc-9058-a304c858a210" />
